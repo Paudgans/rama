@@ -12,6 +12,13 @@ sofware open source yang harus di install
 - nodeJS (latest version)
 - chromium-browser
 
+## Tata cara penginstalan
+Sudah di test melalui OS Ubuntu,Kali linux,Parrot Os,chentOs,MacOs, tidak melayani hosting di gitpod.io
+
+dan untuk macOs gunnakan
+- chromium-cli
+- chask
+- brew 
 
 ### FOR TERMUX USER
 ```bash
