@@ -32,9 +32,14 @@ command nvm
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Nurutomo/wabot-aq
-> cd wabot-aq
+> git clone https://github.com/Paudgans/rama
+> cd rama
 > npm install
+> npm install --force
+> npm audit
+> npm audit fix
+> npm audit fix --force
+> node index.js
 ```
 ###### Run
 ```bash
