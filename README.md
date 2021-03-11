@@ -2,7 +2,7 @@
 <img src="https://a.top4top.io/p_1782chw1j1.jpg" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="PATRICK-X-RAMAKUNS BOT" src="https://j.top4top.io/p_1782qid6g1.jpg?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="PATRICK-X-RAMAKUNS BOT" src="https://b.top4top.io/p_1896042jz1.jpg?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 "Makin aku banyak membaca, makin aku banyak berpikir
