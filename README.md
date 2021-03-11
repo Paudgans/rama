@@ -20,6 +20,11 @@ dan untuk macOs gunnakan
 - chask
 - brew 
 
+JJika belum tersedia NodeJs silahkan 
+ketikan ./installNode atau sudo apt install nodeJs
+bila belum diupgrade, silahkan update dlu melalui 
+command nvm 
+
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
