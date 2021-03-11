@@ -5,8 +5,13 @@
 <a href="#"><img title="PATRICK-X-RAMAKUNS BOT" src="https://j.top4top.io/p_1782qid6g1.jpg?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-# wabot-aq
-Simple WhatsApp Bot
+"Makin aku banyak membaca, makin aku banyak berpikir
+makin aku banyak belajar, makin aku sadar bahwa aku tak mengetahui apa pun." - Voltaire
+
+sofware open source yang harus di install
+- nodeJS (latest version)
+- chromium-browser
+
 
 ### FOR TERMUX USER
 ```bash
