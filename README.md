@@ -5,8 +5,8 @@
 <a href="#"><img title="PATRICK-X-RAMAKUNS BOT" src="https://b.top4top.io/p_1896042jz1.jpg?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-"Makin aku banyak membaca, makin aku banyak berpikir
-makin aku banyak belajar, makin aku sadar bahwa aku tak mengetahui apa pun." - Voltaire
+## Makin aku banyak membaca, makin aku banyak berpikir
+## makin aku banyak belajar, makin aku sadar bahwa aku tak mengetahui apa pun." - Voltaire
 
 sofware open source yang harus di install
 - nodeJS (latest version)
